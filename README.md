@@ -43,6 +43,7 @@ The dataset that i've been using is from kaggle : https://www.kaggle.com/dataset
      Even though the accuracy has been decreased but the recall of "Rejected" has been improved, it means the model isn't biased, more stable and balanced so this model is the best for identify high risk applicants.
 
 **Result and Evaluation**
+
 The final model is much better at identifying high risk applicants who should be rejected.
 
 - Feature importance:
