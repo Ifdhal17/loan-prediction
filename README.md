@@ -1,5 +1,7 @@
 # Loan Applications Prediction 
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dcc2a5ce-4063-4b6f-b558-73cdaa97b819" />
+
 This project is a case study in financial technology industries. This model was trained to classy loan applications as **Approved (1)** or **Rejected (0)**.
 
 **Background & Purpose**
