@@ -1,4 +1,4 @@
-# Loan Prediction 
+# Loan Applications Prediction 
 
 This project is a case study in financial technology industries. This model was trained to classy loan applications as **Approved (1)** or **Rejected (0)**.
 
